@@ -676,3 +676,5 @@ ruler.prototype.utils = {
 
     }
 } ;
+
+module.exports = ruler;
